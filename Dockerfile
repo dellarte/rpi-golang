@@ -36,4 +36,4 @@ ENV PATH $GOROOT/bin:$GOPATH/bin:$PATH
 WORKDIR /gopath1.6.2
 
 # Define default command
-#CMD ["bash"]
+CMD ["bash"]
